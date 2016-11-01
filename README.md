@@ -1,2 +1,2 @@
-# imperial-programming
+# imperative-programming
 All solutions for TU Berlin's Prog1 tutorials.
